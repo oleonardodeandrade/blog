@@ -1,0 +1,20 @@
+[
+    {
+        "href": "/posts/what-if-strings",
+        "info": {
+            "title": "E se? Strings",
+            "description": "E se strings fossem tipadas no Typescript?",
+            "level": 1,
+            "subjects": [
+                "typescript"
+            ],
+            "translations": [
+                "pt-br"
+            ],
+            "language": "pt-br",
+            "date": "2024-01-31T11:48:37.896Z"
+        },
+        "date": "2024-01-31T11:48:37.896Z",
+        "readingTime": 5
+    }
+    ]
