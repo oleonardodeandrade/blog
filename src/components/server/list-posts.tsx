@@ -26,7 +26,8 @@ const getPosts = () => {
 
         const items = files.map((file) => {
             try {
-                const href = file.replace(/\/page\.mdx?$/, "").replace(base, "");
+                const relativePath = file.replace(/\/page\.mdx?$/, "");
+                const href = `/posts/${relativePath.replace(base, "").replace(/\\/g, "/")}`;
                 const fullPath = path.resolve(base, "posts", file);
                 const content = fs.readFileSync(fullPath, "utf-8");
                 const doc = Markdoc.parse(content);

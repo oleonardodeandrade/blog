@@ -1,20 +1,18 @@
 [
     {
-        "href": "what-if-strings",
+        "href": "/posts/my-ideas",
         "info": {
-            "title": "E se? Strings",
-            "description": "E se strings fossem tipadas no Typescript?",
+            "title": "Organizando Minhas Ideias",
+            "description": "Reflexões sobre a organização das minhas ideias e projetos como desenvolvedor.",
             "level": 1,
-            "subjects": [
-                "typescript"
-            ],
+            "subjects": [],
             "translations": [
                 "pt-br"
             ],
             "language": "pt-br",
-            "date": "2024-01-31T11:48:37.896Z"
+            "date": "2024-08-04T11:48:37.896Z"
         },
-        "date": "2024-01-31T11:48:37.896Z",
-        "readingTime": 5
+        "date": "2024-08-04T11:48:37.896Z",
+        "readingTime": 1
     }
 ]

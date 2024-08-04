@@ -30,7 +30,7 @@ export function Hero() {
                     <div className="relative z-10 md:text-center lg:text-left">
                         <div className="relative">
                             <p className="inline bg-gradient-to-r from-blue-300 via-blue-400 to-blue-300 bg-clip-text font-display text-4xl tracking-tight text-transparent">
-                                Ideias e códigos através de posts
+                                Ideias e um pouco da minha vida através de posts
                             </p>
                             <p className="mt-3 text-xl tracking-tight text-slate-400">
                                 Posts, relatos e experiências do ponto de vista de um desenvolvedor
