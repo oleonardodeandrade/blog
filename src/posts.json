@@ -14,5 +14,24 @@
         },
         "date": "2024-08-04T11:48:37.896Z",
         "readingTime": 1
+    },
+    {
+        "href": "/posts/english-learning",
+        "info": {
+            "title": "Aprendizado de Inglês",
+            "description": "Minhas estratégias e progressos no aprendizado de inglês.",
+            "level": 1,
+            "subjects": [
+                "aprendizado",
+                "inglês"
+            ],
+            "translations": [
+                "pt-br"
+            ],
+            "language": "pt-br",
+            "date": "2024-08-04T11:48:37.896Z"
+        },
+        "date": "2024-08-04T11:48:37.896Z",
+        "readingTime": 2
     }
 ]
